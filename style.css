@@ -1,0 +1,56 @@
+.hero-color{
+  background-color:#89D4FF;
+
+}
+
+
+.name{
+  font-family: "Felipa", serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color:#44ACFF;
+  
+
+}
+.rainbow{
+    display:flex;
+   justify-content:center;
+}
+.sun{
+    display:flex;
+  justify-content:flex-end;
+}
+.me
+{
+   display:flex;
+   justify-content:center;
+}
+p{
+   display:flex;
+   justify-content:center;
+}
+.hello{
+  color:#44ACFF;
+   display:flex;
+   justify-content:center;
+}
+.blue{
+    color:#44ACFF;
+}
+.skill2{
+margin-left:100px;
+}
+.bottom-container{
+  margin-left:100px;
+  margin-right:100px;
+}
+.contact-btn{
+  background-color: #44ACFF !important;
+  color: white !important;
+  border: none !important;
+}
+
+.contact-btn:hover{
+  background-color: #89D4FF !important;
+}
